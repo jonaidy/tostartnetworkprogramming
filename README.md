@@ -17,9 +17,11 @@ https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
    ![image](https://user-images.githubusercontent.com/22738494/125716384-1f560240-77ac-44e7-b6a4-52e9070f312e.png)
 I attached my VM to both bridge to get to internet and to host-only network to reach my GNS lab.
    ![image](https://user-images.githubusercontent.com/22738494/125716531-08ce89c9-8c30-44c5-a808-9f2bb809ff33.png)
+
 Plan for your lab network IP address scheme, and preferably very much different from your physical network. In this example, I have my lab network in 172.16.16.0, and my GNS VM IP address is 192.168.88.51/24 (ens38). I configured my linux VM to connect host-only interface with DHCP. As depicted in below capture, you can see ens38 is the interface connected to my GNS LAB.
    ![image](https://user-images.githubusercontent.com/22738494/125717169-5c0c749d-26e8-4260-9f80-4919079ccfdf.png)
-Then, please configure static route to reach 172.16.16.0 (your lab network), you can use terminal and key in the command below. This is not permanent, and everytime the OS restart, the static route will be deleted from system.
+
+Next, please configure static route to reach 172.16.16.0 (your lab network), you can use terminal and key in the command below. This is not permanent, and everytime the OS restart, the static route will be deleted from system.
 
 sudo ip route add 172.16.16.0/24 via 192.168.88.51 ens38
 
