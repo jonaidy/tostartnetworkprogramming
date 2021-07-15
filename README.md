@@ -34,7 +34,9 @@ Add the static route here..
 ![image](https://user-images.githubusercontent.com/22738494/125717644-6b718979-8f6d-4e0a-be70-ec2fa4c1a42c.png)
 
 To activate your static route configuration, turn off and on the switch for interface ens38 (or what ever interface name you have)
-![image](https://user-images.githubusercontent.com/22738494/125717760-430dd9b9-10a6-4d74-b307-c3f382129a24.png)
+
+![image](https://user-images.githubusercontent.com/22738494/125718004-dba2a64f-5917-4612-b23a-0e9b566ce7b6.png)
+
 
 By now, you can ping your lab equipment from the Ubuntu VM...
 
