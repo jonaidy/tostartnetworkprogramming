@@ -1,0 +1,456 @@
+PING www.google.com (172.217.194.105) 56(84) bytes of data.
+64 bytes from 172.217.194.105: icmp_seq=1 ttl=99 time=62.3 ms
+64 bytes from 172.217.194.105: icmp_seq=2 ttl=99 time=11.7 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 11.660/36.994/62.328/25.334 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:35:02. 
+
+
+PING www.google.com (74.125.200.104) 56(84) bytes of data.
+64 bytes from sa-in-f104.1e100.net (74.125.200.104): icmp_seq=1 ttl=51 time=9.85 ms
+64 bytes from sa-in-f104.1e100.net (74.125.200.104): icmp_seq=2 ttl=51 time=36.1 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 9.849/22.988/36.127/13.139 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:36:02. 
+
+
+PING www.google.com (74.125.200.105) 56(84) bytes of data.
+64 bytes from sa-in-f105.1e100.net (74.125.200.105): icmp_seq=1 ttl=99 time=6.86 ms
+64 bytes from sa-in-f105.1e100.net (74.125.200.105): icmp_seq=2 ttl=99 time=6.35 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 6.351/6.605/6.859/0.254 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:37:02. 
+
+
+PING www.google.com (74.125.200.105) 56(84) bytes of data.
+64 bytes from sa-in-f105.1e100.net (74.125.200.105): icmp_seq=1 ttl=99 time=5.21 ms
+64 bytes from sa-in-f105.1e100.net (74.125.200.105): icmp_seq=2 ttl=101 time=7.35 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 5.207/6.280/7.354/1.073 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:38:02. 
+
+
+PING www.google.com (74.125.200.105) 56(84) bytes of data.
+64 bytes from sa-in-f105.1e100.net (74.125.200.105): icmp_seq=1 ttl=99 time=5.70 ms
+64 bytes from sa-in-f105.1e100.net (74.125.200.105): icmp_seq=2 ttl=101 time=8.78 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 5.704/7.239/8.775/1.535 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:39:02. 
+
+
+PING www.google.com (74.125.200.105) 56(84) bytes of data.
+64 bytes from sa-in-f105.1e100.net (74.125.200.105): icmp_seq=1 ttl=99 time=50.5 ms
+64 bytes from sa-in-f105.1e100.net (74.125.200.105): icmp_seq=2 ttl=99 time=18.2 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 18.217/34.335/50.453/16.118 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:40:02. 
+
+
+PING www.google.com (74.125.24.104) 56(84) bytes of data.
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=1 ttl=101 time=47.6 ms
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=2 ttl=101 time=167 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1003ms
+rtt min/avg/max/mdev = 47.591/107.160/166.729/59.569 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:41:03. 
+
+
+PING www.google.com (74.125.24.105) 56(84) bytes of data.
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=1 ttl=102 time=16.2 ms
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=2 ttl=102 time=52.1 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 16.199/34.155/52.112/17.956 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:42:02. 
+
+
+PING www.google.com (74.125.24.105) 56(84) bytes of data.
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=1 ttl=102 time=131 ms
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=2 ttl=102 time=18.7 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 18.687/74.717/130.748/56.030 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:43:02. 
+
+
+PING www.google.com (74.125.24.105) 56(84) bytes of data.
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=1 ttl=102 time=6.69 ms
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=2 ttl=102 time=52.4 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 6.689/29.528/52.367/22.839 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:44:02. 
+
+
+PING www.google.com (74.125.24.105) 56(84) bytes of data.
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=1 ttl=102 time=81.2 ms
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=2 ttl=102 time=51.4 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 51.398/66.310/81.223/14.912 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:45:03. 
+
+
+PING www.google.com (74.125.24.106) 56(84) bytes of data.
+64 bytes from 74.125.24.106 (74.125.24.106): icmp_seq=1 ttl=101 time=27.8 ms
+64 bytes from 74.125.24.106 (74.125.24.106): icmp_seq=2 ttl=101 time=254 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 27.788/140.728/253.669/112.940 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:46:02. 
+
+
+PING www.google.com (74.125.24.105) 56(84) bytes of data.
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=1 ttl=102 time=4.78 ms
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=2 ttl=102 time=18.4 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 4.778/11.576/18.375/6.798 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:47:02. 
+
+
+PING www.google.com (74.125.24.105) 56(84) bytes of data.
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=1 ttl=102 time=6.75 ms
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=2 ttl=102 time=7.96 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 6.745/7.351/7.957/0.606 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:48:02. 
+
+
+PING www.google.com (74.125.24.105) 56(84) bytes of data.
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=1 ttl=102 time=8.11 ms
+64 bytes from 74.125.24.105 (74.125.24.105): icmp_seq=2 ttl=102 time=8.22 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1003ms
+rtt min/avg/max/mdev = 8.112/8.164/8.216/0.052 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:49:02. 
+
+
+PING www.google.com (74.125.24.106) 56(84) bytes of data.
+64 bytes from 74.125.24.106 (74.125.24.106): icmp_seq=1 ttl=101 time=51.8 ms
+64 bytes from 74.125.24.106 (74.125.24.106): icmp_seq=2 ttl=101 time=9.67 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 9.665/30.748/51.832/21.083 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:50:02. 
+
+
+PING www.google.com (74.125.24.104) 56(84) bytes of data.
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=1 ttl=101 time=32.5 ms
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=2 ttl=101 time=10.8 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 10.786/21.626/32.466/10.840 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:51:02. 
+
+
+PING www.google.com (74.125.24.104) 56(84) bytes of data.
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=1 ttl=101 time=38.4 ms
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=2 ttl=101 time=7.71 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 7.708/23.063/38.419/15.355 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:52:03. 
+
+
+PING www.google.com (74.125.24.104) 56(84) bytes of data.
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=1 ttl=101 time=11.5 ms
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=2 ttl=101 time=81.8 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 11.544/46.662/81.781/35.118 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:53:02. 
+
+
+PING www.google.com (74.125.24.104) 56(84) bytes of data.
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=1 ttl=101 time=4.55 ms
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=2 ttl=101 time=5.51 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 4.552/5.028/5.505/0.476 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:54:02. 
+
+
+PING www.google.com (172.217.194.99) 56(84) bytes of data.
+64 bytes from 172.217.194.99: icmp_seq=1 ttl=99 time=8.05 ms
+64 bytes from 172.217.194.99: icmp_seq=2 ttl=99 time=4.97 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1065ms
+rtt min/avg/max/mdev = 4.970/6.507/8.045/1.537 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:55:02. 
+
+
+PING www.google.com (172.217.194.105) 56(84) bytes of data.
+64 bytes from 172.217.194.105: icmp_seq=1 ttl=99 time=5.58 ms
+64 bytes from 172.217.194.105: icmp_seq=2 ttl=99 time=12.2 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 5.581/8.886/12.191/3.305 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:56:02. 
+
+
+PING www.google.com (172.217.194.105) 56(84) bytes of data.
+64 bytes from 172.217.194.105: icmp_seq=1 ttl=99 time=4.89 ms
+64 bytes from 172.217.194.105: icmp_seq=2 ttl=99 time=6.14 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 4.886/5.512/6.138/0.626 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:57:02. 
+
+
+PING www.google.com (172.217.194.105) 56(84) bytes of data.
+64 bytes from 172.217.194.105: icmp_seq=1 ttl=99 time=7.49 ms
+64 bytes from 172.217.194.105: icmp_seq=2 ttl=99 time=10.8 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1482ms
+rtt min/avg/max/mdev = 7.486/9.136/10.786/1.650 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:58:03. 
+
+
+PING www.google.com (74.125.68.99) 56(84) bytes of data.
+64 bytes from sc-in-f99.1e100.net (74.125.68.99): icmp_seq=1 ttl=102 time=16.2 ms
+64 bytes from sc-in-f99.1e100.net (74.125.68.99): icmp_seq=2 ttl=102 time=15.0 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 14.980/15.597/16.215/0.617 ms
+
+
+www.google.com is Reachable at 23/07/2021 17:59:02. 
+
+
+PING www.google.com (74.125.68.147) 56(84) bytes of data.
+64 bytes from sc-in-f147.1e100.net (74.125.68.147): icmp_seq=1 ttl=51 time=22.7 ms
+64 bytes from sc-in-f147.1e100.net (74.125.68.147): icmp_seq=2 ttl=51 time=4.87 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 4.867/13.792/22.717/8.925 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:00:02. 
+
+
+PING www.google.com (74.125.68.147) 56(84) bytes of data.
+64 bytes from sc-in-f147.1e100.net (74.125.68.147): icmp_seq=1 ttl=51 time=6.15 ms
+64 bytes from sc-in-f147.1e100.net (74.125.68.147): icmp_seq=2 ttl=51 time=34.6 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1003ms
+rtt min/avg/max/mdev = 6.146/20.380/34.614/14.234 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:01:02. 
+
+
+PING www.google.com (74.125.68.147) 56(84) bytes of data.
+64 bytes from sc-in-f147.1e100.net (74.125.68.147): icmp_seq=1 ttl=51 time=20.5 ms
+64 bytes from sc-in-f147.1e100.net (74.125.68.147): icmp_seq=2 ttl=51 time=4.13 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 4.126/12.336/20.547/8.210 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:02:02. 
+
+
+PING www.google.com (74.125.24.104) 56(84) bytes of data.
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=1 ttl=101 time=38.4 ms
+64 bytes from 74.125.24.104 (74.125.24.104): icmp_seq=2 ttl=101 time=15.3 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 15.338/26.883/38.429/11.545 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:03:02. 
+
+
+PING www.google.com (172.217.194.104) 56(84) bytes of data.
+64 bytes from 172.217.194.104: icmp_seq=1 ttl=51 time=5.14 ms
+64 bytes from 172.217.194.104: icmp_seq=2 ttl=51 time=5.41 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 5.139/5.272/5.406/0.133 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:04:03. 
+
+
+PING www.google.com (172.217.194.103) 56(84) bytes of data.
+64 bytes from 172.217.194.103: icmp_seq=1 ttl=102 time=46.8 ms
+64 bytes from 172.217.194.103: icmp_seq=2 ttl=102 time=6.64 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1352ms
+rtt min/avg/max/mdev = 6.641/26.701/46.762/20.060 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:05:02. 
+
+
+PING www.google.com (172.217.194.103) 56(84) bytes of data.
+64 bytes from 172.217.194.103: icmp_seq=1 ttl=102 time=14.4 ms
+64 bytes from 172.217.194.103: icmp_seq=2 ttl=102 time=4.91 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1029ms
+rtt min/avg/max/mdev = 4.909/9.676/14.443/4.767 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:06:02. 
+
+
+PING www.google.com (172.217.194.103) 56(84) bytes of data.
+64 bytes from 172.217.194.103: icmp_seq=1 ttl=102 time=59.7 ms
+64 bytes from 172.217.194.103: icmp_seq=2 ttl=102 time=5.33 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1339ms
+rtt min/avg/max/mdev = 5.327/32.522/59.718/27.195 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:07:03. 
+
+
+PING www.google.com (172.217.194.103) 56(84) bytes of data.
+64 bytes from 172.217.194.103: icmp_seq=1 ttl=102 time=23.1 ms
+64 bytes from 172.217.194.103: icmp_seq=2 ttl=102 time=8.47 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 8.466/15.777/23.089/7.311 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:08:02. 
+
+
+PING www.google.com (172.217.194.105) 56(84) bytes of data.
+64 bytes from 172.217.194.105: icmp_seq=1 ttl=99 time=4.23 ms
+64 bytes from 172.217.194.105: icmp_seq=2 ttl=99 time=19.7 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 4.230/11.951/19.673/7.721 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:09:02. 
+
+
+PING www.google.com (172.217.194.104) 56(84) bytes of data.
+64 bytes from 172.217.194.104: icmp_seq=1 ttl=51 time=6.98 ms
+64 bytes from 172.217.194.104: icmp_seq=2 ttl=51 time=11.2 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 6.980/9.087/11.194/2.107 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:10:02. 
+
+
+PING www.google.com (172.217.194.104) 56(84) bytes of data.
+64 bytes from 172.217.194.104: icmp_seq=1 ttl=51 time=16.6 ms
+64 bytes from 172.217.194.104: icmp_seq=2 ttl=51 time=15.1 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1022ms
+rtt min/avg/max/mdev = 15.117/15.864/16.612/0.747 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:11:02. 
+
+
+PING www.google.com (74.125.68.99) 56(84) bytes of data.
+64 bytes from sc-in-f99.1e100.net (74.125.68.99): icmp_seq=1 ttl=102 time=6.04 ms
+64 bytes from sc-in-f99.1e100.net (74.125.68.99): icmp_seq=2 ttl=102 time=8.32 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 6.040/7.182/8.324/1.142 ms
+
+
+www.google.com is Reachable at 23/07/2021 18:12:02. 
+
+

@@ -1,0 +1,12 @@
+192.168.1.100 is Unreachable. 
+www.youtube.com is Reachable. 
+www.ncs.co is Reachable. 
+192.168.1.100 is Unreachable. at 23/07/2021 18:19:48
+www.youtube.com is Reachable. at 23/07/2021 18:19:48
+www.ncs.co is Reachable. at 23/07/2021 18:19:48
+192.168.1.100 is Unreachable. at 23/07/2021 18:19:59
+www.youtube.com is Reachable. at 23/07/2021 18:19:59
+www.ncs.co is Reachable. at 23/07/2021 18:19:59
+192.168.1.100 is Unreachable. at 26/07/2021 09:43:52
+www.youtube.com is Reachable. at 26/07/2021 09:43:52
+www.ncs.co is Reachable. at 26/07/2021 09:43:52

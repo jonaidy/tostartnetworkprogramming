@@ -1,4 +1,5 @@
 import napalm
+from pprint import pprint
 
 
 driver = napalm.get_network_driver('ios')
@@ -15,7 +16,10 @@ if alive['is_alive'] is True:
     config = device.get_config()
     interface_ip = device.get_interfaces_ip()
     arp_table = device.get_arp_table()
-
+    pprint(config)
+    pprint(interface_ip)
+    pprint(arp_table)
 else:
     print(f'{device.hostname} is not accessible!')
+
 device.close()

@@ -1,7 +1,12 @@
 import os
+from datetime import datetime
 
 hostname = "www.google.com"
 response = os.system("ping -c 2 " + hostname)
+
+
+now = datetime.now()
+nowstring = now.strftime("%d/%m/%Y %H:%M:%S")
 
 '''In Unix/Linux, the return value is a 16-bit number that contains two different pieces of information.
 From the documentation "a 16-bit number, whose low byte is the signal number that killed the process,
@@ -12,7 +17,10 @@ if response == 0:
 else:
     pingstatus = "Unreachable"
 
-print(hostname + ' is ' + pingstatus)
+print('\n\n' +hostname + ' is ' + pingstatus + ' at ' + nowstring + '. \n\n')
+
+
+
 
 
 
